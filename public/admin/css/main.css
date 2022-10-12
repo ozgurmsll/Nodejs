@@ -1,0 +1,37 @@
+.index-body{
+    background-color:cadetblue;
+}
+#nav{
+    display:flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size:30px
+}
+#register{
+    border: 2px solid;
+    border-radius: 10px;
+    margin-right: 10px;
+    width:150px;
+    color: white;
+    background-color: black;
+
+}
+
+#login{
+    border: 2px solid;
+    border-radius: 10px;
+    width:150px;
+    text-align: center;
+    color: white;
+    background-color: black;
+
+
+}
+#login:hover{
+    background-color:rgb(6, 211, 95);
+}
+#register:hover{
+    background-color:rgb(6, 211, 95);
+
+}
